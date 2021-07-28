@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aqua-Vision
-- 👀 I’m interested in making operating systems.
+- 👀 I’m interested in making... well I don't know yet.
 - 🌱 I’m currently learning coding in LUA.
 - 💞️ I’m looking to collaborate on (not collaborating at the moment)
 - 📫 How to reach me (not contacting anyone)
